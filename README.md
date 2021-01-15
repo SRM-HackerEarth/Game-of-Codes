@@ -1,8 +1,8 @@
-<img src="https://res.cloudinary.com/dcykxiua2/image/upload/v1610645397/images_kciwzs.jpg" width="800" height="200" >
+<img src="https://res.cloudinary.com/srmhackerearth/image/upload/v1610707054/Untitled_design_4_cdjiuw.png">
 
-# **CP CHEATSHEET FOR BEGINNERS**
+# Pre Event Guide/Cheatsheet
 
-I hope you all have solved your first competitive programming problem. This is the time to introduce some widely used concepts you should know before digging deep into the world of CP. Some of my code in this post may be in C++, but you can translate that to the language of your choice by exploring it.
+Greetings of the day, attendees! This is the time to introduce some widely used concepts you should know before digging deep into the world of Competitive Coding. Some of the code in this post may be in C++, but you can translate that to the language of your choice by exploring further. We hope that this helps you conquer the Great War, Game of Codes.
 
 ------------
 
@@ -31,7 +31,7 @@ You can use any language of your choice but C++, Java, and Python are the most p
 
 ### For C &#47; C++ :
 * Using Linux is most recommended.
-* Turbo C++ is not standard. Uninstall it (-_-)
+* Turbo C++ is not standard. Uninstall it. (-_-)
 *  If using Linux, gcc/g++ and any simple/lightweight IDE is recommended.
 * If using Windows, setting up Code:Blocks is one of the best options.
 * You can also use online compilers and IDE, but they come with their own disadvantages.
@@ -234,6 +234,6 @@ void DFS(int node, int parent, int [] vis) {
 ```
 As you have studied recursion already, observe closely, what is happening in the above function.
 
+------------
 
-
-
+## Author: Shashwat Mishra, Technical Lead at SRM HackerEarth
